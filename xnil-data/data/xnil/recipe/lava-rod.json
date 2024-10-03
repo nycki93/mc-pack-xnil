@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bone"
+        },
+        {
+            "item": "minecraft:lava_bucket"
+        }
+    ],
+    "result": {
+        "id": "minecraft:blaze_rod"
+    }
+}
